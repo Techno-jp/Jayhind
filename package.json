@@ -4,7 +4,7 @@
   "description": "",
   "main": "bs.js",
   "scripts": {
-    "deploy": "gh-pages -d .*bs"
+    "deploy": "gh-pages -d jay"
   },
   "repository": {
     "type": "git",
