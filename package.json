@@ -4,7 +4,7 @@
   "description": "",
   "main": "bs.js",
   "scripts": {
-    "deploy": "gh-pages -d BootstrapBootcamp"
+    "deploy": "gh-pages -d .*bs"
   },
   "repository": {
     "type": "git",
