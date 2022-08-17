@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bs.js",
+  "scripts": {
+    "deploy": "gh-pages -d BootstrapBootcamp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techno-jp/Jayhind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techno-jp/Jayhind/issues"
+  },
+  "homepage": "https://github.com/Techno-jp/Jayhind",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
